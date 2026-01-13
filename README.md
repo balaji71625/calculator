@@ -7,7 +7,7 @@ This project demonstrates how JavaScript can control the structure and behavior 
 ---
 
 ## 🚀 Live Demo
-🔗 https://balaji71625.github.io/Calculator/
+🔗 https://balaji71625.github.io/calculator/
 
 ---
 
